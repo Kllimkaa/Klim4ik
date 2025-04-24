@@ -79,21 +79,13 @@ I love watching sunsets 🌅
 
 ### 🎵 Now Playing
 
-<a href="https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2">
-  <img src="https://img.youtube.com/vi/bpy9IRVTF3E/0.jpg" width="240" alt="Против царя">
-</a>
+LASKX3I 🎵 Против царя 🎶
 <br>
-**Против царя**
+────────────────⚪─────────────────────────────
+<br>
+◄◄⠀▐▐ ⠀►► ⠀⠀　　⠀0:57 / 2:19　　　──○─ 🔊⠀　🔀🔄HD ⚙
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-<details>
-  <summary>🎧 Want live Spotify status?</summary>
-  <br>
-  You can use <a href="https://github.com/novatorem/novatorem">novatorem</a> or similar services to show your current Spotify track!
-</details>
