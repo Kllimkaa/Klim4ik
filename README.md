@@ -33,7 +33,7 @@ My interests include **software development**, **web apps**, and **automation**.
 
 ### 🌱 Skills
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ACsharp_Logo.png&psig=AOvVaw0kx7eWcFruOAcL2DtZNlef&ust=1745585625413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPik77qs8YwDFQAAAAAdAAAAABAE"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
