@@ -92,7 +92,6 @@ LASKX3I 🎵 Против царя 🎶
 ### 📫 Contacts
 
 <a href="https://t.me/Kllm4ik"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.com/users/klim4iktv"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://vk.com/klimov135"><img src="https://img.shields.io/badge/VK-2787F5?style=for-the-badge&logo=vk&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/kllim4ik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
