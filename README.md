@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1200" alt="Profile Image" />
+  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" alt="Profile Image" />
 </p>
 <p align="center">
   ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●<br>
@@ -57,6 +57,8 @@ My interests include **software development**, **web apps**, and **automation**.
 
 <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://vk.com/yourvk"><img src="https://img.shields.io/badge/VK-2787F5?style=for-the-badge&logo=vk&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </td>
 </tr>
