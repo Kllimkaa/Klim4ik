@@ -36,6 +36,21 @@ My interests include **software development**, **web apps**, and **automation**.
 <tr>
 <td align="center" width="50%">
 
+### ⚡ Fun Fact
+
+I love watching sunsets 🌅
+
+</td>
+</tr>
+</table>
+
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🌱 Skills
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#" />
@@ -85,47 +100,3 @@ LASKX3I 🎵 Против царя 🎶
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### ⚡ Fun Fact
-
-I love watching sunsets 🌅
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎵 Now Playing
-
-<a href="https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2">
-  <img src="https://img.youtube.com/vi/bpy9IRVTF3E/0.jpg" width="240" alt="Против царя">
-</a>
-<br>
-LASKX3I 🎵 Против царя 🎶
-<br>
-─────────────⚪───────────────────────────────
-<br>
-0:56 / 2:56 ⠀⠀　　⠀         ◄◄⠀▐▐ ⠀►►　　　      ──○─ 🔊 🔀🔄HD ⚙
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<details>
-  <summary>🎧 Want live Spotify status?</summary>
-  <br>
-  You can use <a href="https://github.com/novatorem/novatorem">novatorem</a> or similar services to show your current Spotify track!
-</details>
