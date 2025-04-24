@@ -97,7 +97,7 @@ LASKX3I 🎵 Против царя 🎶
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a71276b1-77da-4ef3-a1f1-49916c4c2b6f" alt="Discord" width="25" height="25" style="vertical-align:middle" />
-  <span style="font-size:1.1em; font-weight:100; margin-left:118px; vertical-align:middle;">klim4iktv</span>
+  <span style="font-size:2.1em; font-weight:100; margin-left:118px; vertical-align:middle;">klim4iktv</span>
 </p>
 
 </td>
