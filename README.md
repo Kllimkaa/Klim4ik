@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" alt="Profile Image" />
+  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" alt="Profile Image" />
 </p>
 <p align="center">
   ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●<br>
@@ -38,7 +38,7 @@ My interests include **software development**, **web apps**, and **automation**.
 
 ### 🌱 Skills
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="44" alt="C#" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
