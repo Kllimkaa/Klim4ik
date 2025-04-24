@@ -96,7 +96,7 @@ LASKX3I 🎵 Против царя 🎶
 <a href="https://www.youtube.com/@kllim4ik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7566001-388c-4a67-bceb-cfe065556967" alt="Discord" width="24" height="24" style="vertical-align:middle" />
+  <img src="https://github.com/user-attachments/assets/d7566001-388c-4a67-bceb-cfe065556967" alt="Discord" width="100" height="100" style="vertical-align:middle" />
   <span style="font-size:1.1em; font-weight:100; margin-left:118px; vertical-align:middle;">klim4iktv</span>
 </p>
 
