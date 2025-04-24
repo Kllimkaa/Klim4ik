@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/F0yK4hm.gif" width="340" alt="Animated" />
+  <img src="https://i.imgur.com/90gF9tP.gif" width="400" alt="Welcome to my profile" />
 </p>
 
 <h1 align="center">Hi, I'm Klim4ik 👋</h1>
@@ -79,9 +79,11 @@ I love watching sunsets 🌅
 
 ### 🎵 Now Playing
 
-**Против царя**  
-[![YouTube](https://img.shields.io/badge/Listen%20on-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2)
-
+<a href="https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2">
+  <img src="https://img.youtube.com/vi/bpy9IRVTF3E/0.jpg" width="240" alt="Против царя">
+</a>
+<br>
+**Против царя**
 </td>
 </tr>
 </table>
