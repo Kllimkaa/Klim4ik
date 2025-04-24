@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/90gF9tP.gif" width="400" alt="Welcome to my profile" />
+  <img src="https://images.steamusercontent.com/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" alt="Profile Image" />
+</p>
+<p align="center">
+  ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●<br>
+  ░░░░░░░░░░ WELCOME TO MY PROFILE ░░░░░░░░░<br>
+  ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●
 </p>
 
 <h1 align="center">Hi, I'm Klim4ik 👋</h1>
@@ -93,3 +98,11 @@ LASKX3I 🎵 Против царя 🎶
 </table>
 
 </div>
+
+---
+
+<details>
+  <summary>🎧 Want live Spotify status?</summary>
+  <br>
+  You can use <a href="https://github.com/novatorem/novatorem">novatorem</a> or similar services to show your current Spotify track!
+</details>
