@@ -79,6 +79,10 @@ I love watching sunsets 🌅
 
 ### 🎵 Now Playing
 
+<a href="https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2">
+  <img src="https://img.youtube.com/vi/bpy9IRVTF3E/0.jpg" width="240" alt="Против царя">
+</a>
+<br>
 LASKX3I 🎵 Против царя 🎶
 <br>
 ────────────────⚪─────────────────────────────
