@@ -53,6 +53,27 @@ My interests include **software development**, **web apps**, and **automation**.
 <tr>
 <td align="center" width="50%">
 
+### 🎵 Now Playing
+
+<a href="https://www.youtube.com/watch?v=bpy9IRVTF3E&list=RDcghIlyfntHQ&index=2">
+  <img src="https://img.youtube.com/vi/bpy9IRVTF3E/0.jpg" width="240" alt="Против царя">
+</a>
+<br>
+LASKX3I 🎵 Против царя 🎶
+<br>
+─────────────⚪───────────────────────────────
+<br>
+0:56 / 2:56 ⠀⠀　　⠀         ◄◄⠀▐▐ ⠀►►　　　      ──○─ 🔊 🔀🔄HD ⚙
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 📫 Contacts
 
 <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
