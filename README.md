@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/866234157720842038/9E0A6A7D7B8E8A5D7E6B4D5B1B2D1A6A2B8F9B7E/" width="340" alt="Animated" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Drussian%26id%3D1243433341&psig=AOvVaw29ETsmWCqfp5lyPBKq5x9O&ust=1745583732212000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjHv7Wl8YwDFQAAAAAdAAAAABA-" width="340" alt="Animated" />
 </p>
 
 <h1 align="center">Hi, I'm Klim4ik 👋</h1>
