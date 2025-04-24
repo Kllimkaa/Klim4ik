@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Drussian%26id%3D1243433341&psig=AOvVaw29ETsmWCqfp5lyPBKq5x9O&ust=1745583732212000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjHv7Wl8YwDFQAAAAAdAAAAABA-" width="340" alt="Animated" />
+  <img src="https://i.imgur.com/F0yK4hm.gif" width="340" alt="Animated" />
 </p>
 
 <h1 align="center">Hi, I'm Klim4ik 👋</h1>
@@ -33,10 +33,10 @@ My interests include **software development**, **web apps**, and **automation**.
 
 ### 🌱 Skills
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ACsharp_Logo.png&psig=AOvVaw0kx7eWcFruOAcL2DtZNlef&ust=1745585625413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPik77qs8YwDFQAAAAAdAAAAABAE"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 </td>
 </tr>
