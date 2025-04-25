@@ -17,20 +17,22 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kllm4ik&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🔥 Current Focus
 
 - 🌱 Learning **JavaScript and Web Development**
 - 👨‍💻 Working on personal projects
 - 💬 Ask me about **C# or web basics**
 - ⚡ Fun fact: **I love watching sunsets 🌅**
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kllm4ik&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
