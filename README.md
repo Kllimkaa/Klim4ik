@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●;░░░░░░░░░░ WELCOME+TO+MY+PROFILE ░░░░░░░░░;●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●" alt="Animated Typing Welcome" />
+  ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●<br>
+  ░░░░░░░░░░ WELCOME TO MY PROFILE ░░░░░░░░░<br>
+  ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●
 </p>
 
 <h1 align="center">Hi there, I'm Klim4ik 👋</h1>
-<h3 align="center">🚀 Passionate Student & Full-Stack Developer</h3>
+<h3 align="center">🚀 Passionate Student & Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kllm4ik&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Dream-Tokyo%20🇯🇵-ff69b4" alt="Tokyo Dream" />
@@ -17,14 +19,18 @@
 
 ## 🔥 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kllm4ik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+- 🌱 Learning **JavaScript and Web Development**
+- 👨‍💻 Working on personal projects
+- 💬 Ask me about **C# or web basics**
+- ⚡ Fun fact: **I love watching sunsets 🌅**
 
-- 🌱 Learning **React.js and Node.js**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **web development and automation**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kllm4ik&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -35,32 +41,33 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kllm4ik&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kllm4ik&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/Kllm4ik">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kllm4ik&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kllm4ik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kllm4ik&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -74,7 +81,7 @@
   <br>
   <strong>LASKX3I - Против царя</strong>
   <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  <img src="https://img.shields.io/badge/0:56-2:56-blue" alt="Track Progress" />
 </p>
 
 ---
@@ -86,17 +93,4 @@
   <a href="https://vk.com/klimov135"><img src="https://img.shields.io/badge/VK-2787F5?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
   <a href="https://www.youtube.com/@kllim4ik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://discord.com/users/klim4iktv"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kllm4ik&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
