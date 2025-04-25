@@ -9,21 +9,11 @@
 </p>
 
 <h1 align="center">Hi there, I'm Klim4ik 👋</h1>
-<h3 align="center">🚀 Passionate Student & Developer</h3>
+<h3 align="center">🚀Student & Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kllm4ik&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Dream-Tokyo%20🇯🇵-ff69b4" alt="Tokyo Dream" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kllm4ik&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -57,19 +47,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/Kllm4ik">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kllm4ik&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kllm4ik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kllm4ik&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
 </p>
 
 ---
